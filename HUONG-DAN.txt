@@ -1,0 +1,21 @@
+NHỊP NGÀY · bản độc lập 1.0
+
+Thư mục này là toàn bộ app. Không cần Claude, không cần máy chủ riêng.
+
+ĐƯA LÊN MẠNG (làm một lần, miễn phí) bằng GitHub Pages
+1. Tạo tài khoản GitHub bằng email cá nhân (không dùng mail trường).
+2. Bấm "New repository", đặt tên vd: nhip-ngay, chọn Public, bấm Create repository.
+3. Bấm "uploading an existing file", kéo TẤT CẢ file trong thư mục này vào (không kéo cả thư mục), bấm Commit changes.
+4. Vào Settings > Pages > Build and deployment: chọn "Deploy from a branch", Branch: main, thư mục / (root), bấm Save.
+5. Đợi 1–2 phút, link app là: https://TÊN-GITHUB.github.io/nhip-ngay/
+
+CÀI LÊN IPHONE
+Mở link bằng Safari > nút Chia sẻ > Thêm vào MH chính.
+
+CẬP NHẬT PHIÊN BẢN MỚI
+Vào repository > Add file > Upload files, kéo file mới vào (ghi đè), Commit changes.
+Mỗi lần cập nhật, đổi số phiên bản trong sw.js (dòng CACHE) để máy người dùng tải bản mới.
+
+DỮ LIỆU
+Dữ liệu của mỗi người nằm trên máy của chính họ, người đăng app không xem được.
+Cài đặt > Sao lưu ra file / Khôi phục từ file để giữ hoặc chuyển dữ liệu.
